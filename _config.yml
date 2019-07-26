@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Peter Wijeratne"
+name                     : &name "Peter A. Wijeratne"
 description              : &description "MRC Research Fellow at University College London"
 url                      : https://pawij.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Foo"
+  name             : "Dr. Peter Wijeratne"
   avatar           : "profile.png"
-  bio              : "My bio"
+  bio              : "Research Fellow"
   location         : "London, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=peter+wijeratne"
