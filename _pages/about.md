@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my academic website, where you can get an idea of the type of research I do in my job as a Senior Research Fellow at University College London.
+This is my academic website, where you can get an idea of the type of research I do in my job as a Senior Research Fellow at [University College London](https://www.ucl.ac.uk/).
 
 I'm a firm believer in open-access research, so you can also find links to my pre-prints, publications and codes.
 
@@ -24,6 +24,6 @@ Broadly speaking, I research two main topics: first, I develop new methodologies
 
 In my [current project](https://gtr.ukri.org/person/B1FA07FC-77BF-4A31-8CD0-4CB7205CF990/) funded by the [Medical Research Council](https://mrc.ukri.org/), my principle research question is: can we use disease progression modelling to gain new patient-specific information and hence improve clinical trial design?
 
-Teams
+Location
 ===
 I work between the [UCL Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/) and the [UCL Huntington's Disease Centre](https://www.ucl.ac.uk/medical-image-computing/), which are based at the [UCL Department of Computer Science](https://www.ucl.ac.uk/computer-science/) and [UCL Queen Square Institute of Neurology](https://www.ucl.ac.uk/ion/), respectively.
