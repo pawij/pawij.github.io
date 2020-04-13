@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Greetings and salutations!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Foo
+This is my academic website, where you can get an idea of the type of research I do in my job as a Senior Research Fellow at University College London.
+
+I'm a firm believer in open-access research, so you can also find links to my pre-prints, publications and codes.
+
+Biography
+===
+
+I have a background in physics, engineering and computer science which I use in a clinical research setting. My speciality is computational and statistical modelling of disease progression
+(called “disease progression modelling”), with a particular focus on Huntington's disease.
+
+Research
+===
+Broadly speaking, I research two main topics: first, I develop new methodologies to model disease progression; second, I apply these methods to reveal hidden information in data from patients with progressive diseases.
+
+In my [current project funded by the Medical Research Council](https://gtr.ukri.org/person/B1FA07FC-77BF-4A31-8CD0-4CB7205CF990/), my principle research question is: can we use disease progression modelling to gain new patient-specific information and hence improve clinical trial design?
+
+Teams
+===
+I work between the [UCL Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/) and the [UCL Huntington's Disease Centre](https://www.ucl.ac.uk/medical-image-computing/), based at the [UCL Department of Computer Science](https://www.ucl.ac.uk/computer-science/) and [UCL Queen Square Institute of Neurology](https://www.ucl.ac.uk/ion/).
