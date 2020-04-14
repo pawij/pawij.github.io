@@ -11,7 +11,7 @@ Here you can find slides for talks and workshops I've given.
 
 [Computational models for clinical trial design in Huntington's disease.](http://pawij.github.io/files/paw_inria_060919.pdf) 6th September, 2019. Inria Sophia Antipolis, France.  
 
-[From the Higgs to Huntington's: methods for learning from data.](http://pawij.github.io/files/paw_hep_240519.pdf) 24th May, 2019. UCL High Energy Physics, London.
+[From the Higgs to Huntington's: methods for learning from data.](http://pawij.github.io/files/paw_hep_240519.pdf) 24th May, 2019. UCL High Energy Physics, UK.
 
 <!--
 {% for post in site.talks reversed %}
