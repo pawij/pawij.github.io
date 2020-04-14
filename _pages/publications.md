@@ -39,7 +39,7 @@ Cancer growth modelling
 Particle physics
 ===
 
-[Measurements of the pseudorapidity dependence of the totaltransverse energy in proton-proton collisions at √s=7 TeV with ATLAS](http://pawij.github.io/files/paper_jhep_2012.pdf)
+[Measurements of the pseudorapidity dependence of the total transverse energy in proton-proton collisions at √s=7 TeV with ATLAS](http://pawij.github.io/files/paper_jhep_2012.pdf)
 
 <!-- {% include base_path %} -->
 
