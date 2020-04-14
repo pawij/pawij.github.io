@@ -10,14 +10,14 @@ Here you can find details of my current teaching duties.
 PhD supervision
 ===
 
-William Scotton
+[William Scotton](https://twitter.com/drwillscotton)
 
-Ashkan Pakzad
+[Ashkan Pakzad](https://twitter.com/AshkanPakzad)
 
 Masters supervision
 ===
 
-Lucy Rothwell
+[Lucy Rothwell](https://twitter.com/LuRoth_)
 
 {% include base_path %}
 
