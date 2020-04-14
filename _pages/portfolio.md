@@ -13,7 +13,7 @@ Principal investigator
 [Computational models for clinical trial design in Huntington's disease](https://gtr.ukri.org/projects?ref=MR%2FT027770%2F1).
 Funder: Medical Research Council.
 Type: Fellowship.
-Amount: £273,127.
+Amount: £273,137.
 
 [Learning personalised trajectories in Huntington’s disease through computational models of disease progression]().
 Funder: CHDI Foundation.
