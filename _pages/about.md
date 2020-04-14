@@ -16,7 +16,7 @@ Biography
 ===
 
 I have a background in physics, engineering and computer science which I use in a clinical research setting. My speciality is computational and statistical modelling of disease progression
-(called ``disease progression modelling''), with a particular focus on [Huntington's disease](https://www.nhs.uk/conditions/huntingtons-disease/).
+(called "disease progression modelling"), with a particular focus on [Huntington's disease](https://www.nhs.uk/conditions/huntingtons-disease/).
 
 Research
 ===
