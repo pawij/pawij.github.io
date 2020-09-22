@@ -12,7 +12,7 @@ This is my academic website, where you can get an idea of the type of research I
 
 I'm a firm believer in open-access research, so you can also find links to my pre-prints, publications and codes.
 
-I'm also a firm believer of equality in science, which I help support as a member of the UCL Computer Science Athena SWAN Committee. To read more about what the committee does to promote gender equality in computer science look [here](https://www.ucl.ac.uk/computer-science/about/women-computer-science), and what UCL does to promote equality in general [here](https://www.ucl.ac.uk/equality-diversity-inclusion/).
+I also support equality in science as a member of the UCL Computer Science Athena SWAN Committee. To read more about what the committee does to promote gender equality in computer science look [here](https://www.ucl.ac.uk/computer-science/about/women-computer-science), and what UCL does to promote equality across the university [here](https://www.ucl.ac.uk/equality-diversity-inclusion/).
 
 Biography
 ===
