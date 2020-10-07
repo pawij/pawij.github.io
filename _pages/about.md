@@ -28,4 +28,4 @@ In my [current project](https://gtr.ukri.org/person/B1FA07FC-77BF-4A31-8CD0-4CB7
 
 Location
 ===
-I work between the [UCL Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/) and the [UCL Huntington's Disease Centre](https://www.ucl.ac.uk/ion/research/centres/hd-centre), which are based at the [UCL Department of Computer Science](https://www.ucl.ac.uk/computer-science/) and [UCL Queen Square Institute of Neurology](https://www.ucl.ac.uk/ion/), respectively.
+I work between the [UCL Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/) and the [UCL Huntington's Disease Centre](https://www.ucl.ac.uk/ion/research/centres/hd-centre), within the [UCL Department of Computer Science](https://www.ucl.ac.uk/computer-science/) and [UCL Queen Square Institute of Neurology](https://www.ucl.ac.uk/ion/), respectively.
