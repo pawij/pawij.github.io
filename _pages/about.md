@@ -22,7 +22,7 @@ I have a background in physics, engineering and computer science which I use in 
 
 Research
 ===
-Broadly speaking, I research two main topics. First, I develop new disease progression models. Second, I apply these models to real world patient data to learn new and clinically useful information.
+Broadly speaking, I research two main topics. First, I develop new disease progression models. Second, I apply these models to patient data to learn new and clinically useful information.
 
 In my [current project](https://gtr.ukri.org/person/B1FA07FC-77BF-4A31-8CD0-4CB7205CF990/) funded by the [Medical Research Council](https://mrc.ukri.org/), my principle research question is: can we use disease progression modelling to improve clinical trial design?
 
