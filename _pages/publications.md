@@ -12,7 +12,7 @@ Pre-prints
 
 [Learning transition times in event sequences: the Event-Based Hidden Markov Model of disease progression](https://arxiv.org/abs/2011.01023)
 
-Disease progression modelling - application
+Disease progression modelling
 ===
 
 [An image-based model of brain volume biomarker changes in Huntington's disease](http://pawij.github.io/files/paper_acn_2018.pdf)
