@@ -10,18 +10,14 @@ Here you can find selected publications grouped by topic and pre-prints of thing
 Pre-prints
 ===
 
-Coming soon...
+[Learning transition times in event sequences: the Event-Based Hidden Markov Model of disease progression](https://arxiv.org/abs/2011.01023)
 
-<!-- [A time-dependent event-based model of disease progression and its application in Huntington’s disease](http://academicpages.github.io/files/paper1.pdf) -->
-
-
-
-Disease progression modelling
+Disease progression modelling - application
 ===
 
 [An image-based model of brain volume biomarker changes in Huntington's disease](http://pawij.github.io/files/paper_acn_2018.pdf)
 
-Medical image analysis
+Clinical study analysis
 ===
 
 [Robust markers and sample sizes for multicenter trials of Huntington disease](http://pawij.github.io/files/paper_an_2020.pdf)
@@ -36,7 +32,7 @@ Cancer growth modelling
 
 [Multiscale biphasic modelling of peritumoural collagen microstructure: The effect of tumour growth on permeability and fluid flow](http://pawij.github.io/files/paper_pone_2017.pdf)
 
-Particle physics
+Inverse problems in particle physics
 ===
 
 [Measurements of the pseudorapidity dependence of the total transverse energy in proton-proton collisions at √s=7 TeV with ATLAS](http://pawij.github.io/files/paper_jhep_2012.pdf)
