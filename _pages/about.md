@@ -14,7 +14,7 @@ I'm a firm believer in open access research, so you can also find links to my pr
 
 I support equality in science as part of the UCL Computer Science Athena SWAN Committee. To read more about what this committee does look [here](https://www.ucl.ac.uk/computer-science/about/women-computer-science).
 
-I'm also a member of the UCL Computer Science Ethics Committee, which is actually a lot more interesting than you might think. To read more about research ethics at UCL look [here](https://ethics.grad.ucl.ac.uk/).
+I'm also a member of the UCL Computer Science Ethics Committee, which means I think quite a bit about ethics in artificial intelligence. To read more broadly about research ethics at UCL look [here](https://ethics.grad.ucl.ac.uk/).
 
 Biography
 ===
