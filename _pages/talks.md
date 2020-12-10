@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Here you can find slides for talks, posters and workshops I've given.
+Here you can find slides for talks and posters I've given.
 
 [Learning transition times in event sequences: the Event-Based Hidden Markov Model of disease progression](http://pawij.github.io/files/paw_ml4h_2020_poster.pdf) 11th December, 2020. Machine Learning for Health Workshop (ML4H) at NeurIPS 2020, online.
 
