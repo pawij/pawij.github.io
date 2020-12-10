@@ -19,7 +19,7 @@ I'm also a member of the UCL Computer Science Ethics Committee, which means I th
 Biography
 ===
 
-I have a background in physics, engineering and computer science which I use in a clinical research setting. My speciality is computational and statistical modelling of disease progression
+I have a (somewhat randomly acquired) background in physics, engineering and computer science which I use in a clinical research setting. My speciality is computational and statistical modelling of disease progression
 (called "disease progression modelling"), with a particular focus on [Huntington's disease](https://www.nhs.uk/conditions/huntingtons-disease/).
 
 Research

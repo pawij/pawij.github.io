@@ -7,6 +7,8 @@ author_profile: true
 
 Here you can find slides for talks, posters and workshops I've given.
 
+[Learning transition times in event sequences: the Event-Based Hidden Markov Model of disease progression](http://pawij.github.io/files/paw_ml4h_2020_poster.pdf) 11th December, 2020. Machine Learning for Health Workshop (ML4H) at NeurIPS 2020, online.
+
 [Image-based disease progression modelling of dementia and its application to Huntington's disease.](http://pawij.github.io/files/paw_sdrc2020_poster_v0.pdf) 7th September, 2020. Scottish Dementia Research Consortium, online.
 
 [Gaussian Process Progression Modelling of structural MRI changes in Huntington’s disease.](http://pawij.github.io/files/paw_ismrm_2020.pdf) 13th August, 2020. International Society for Magnetic Resonance in Medicine, online.
