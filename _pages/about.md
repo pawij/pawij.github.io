@@ -10,8 +10,6 @@ redirect_from:
 
 This is my academic website, where you can get an idea of the type of research I do in my job as a Senior Research Fellow at [University College London](https://www.ucl.ac.uk/).
 
-I'm a firm believer in open access research, so you can also find links to my pre-prints, publications and codes.
-
 I support equality in science as part of the UCL Computer Science [Athena SWAN](https://www.advance-he.ac.uk/equality-charters/athena-swan-charter) Committee. To read more about what this committee does look [here](https://www.ucl.ac.uk/computer-science/about/women-computer-science).
 
 I'm also a member of the UCL Computer Science Ethics Committee, which means I think quite a bit about ethics in artificial intelligence. To read more about research ethics at UCL look [here](https://ethics.grad.ucl.ac.uk/).
