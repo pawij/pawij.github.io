@@ -7,6 +7,8 @@ author_profile: true
 
 Here you can find slides for talks and posters I've given.
 
+[Learning transition times in event sequences: the Temporal Event-Based Model of disease progression](http://pawij.github.io/files/paw_ipmi_2021_poster.pdf) 29th June, 2021. Information Processing in Medical Imaging (IPMI), online.
+
 [Data-driven models of disease progression.](http://pawij.github.io/files/paw_jhbm2021_lecture.mp4) 5th March, 2021. 23rd Congress of Japan Human Brain Mapping, online.
 
 [Learning transition times in event sequences: the Event-Based Hidden Markov Model of disease progression.](http://pawij.github.io/files/paw_ml4h_2020_poster.pdf) 11th December, 2020. Machine Learning for Health Workshop (ML4H) at NeurIPS 2020, online.

@@ -7,12 +7,12 @@ author_profile: true
 
 Here you can find selected publications grouped by topic and pre-prints of things I'm currently working on.
 
-Pre-prints
+Disease progression modelling: methods
 ===
 
-[Learning transition times in event sequences: the Event-Based Hidden Markov Model of disease progression](https://arxiv.org/abs/2011.01023)
+[Learning transition times in event sequences: the Temporal Event-Based Model of disease progression](http://pawij.github.io/files/Wijeratne-Alexander2021_Chapter_LearningTransitionTimesInEvent.pdf)
 
-Disease progression modelling
+Disease progression modelling: application
 ===
 
 [An image-based model of brain volume biomarker changes in Huntington's disease](http://pawij.github.io/files/paper_acn_2018.pdf)
