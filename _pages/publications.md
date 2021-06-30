@@ -10,7 +10,7 @@ Here you can find selected publications grouped by topic and pre-prints of thing
 Disease progression modelling: methods
 ===
 
-[Learning transition times in event sequences: the Temporal Event-Based Model of disease progression](http://pawij.github.io/files/Wijeratne-Alexander2021_Chapter_LearningTransitionTimesInEvent.pdf)
+[Learning transition times in event sequences: the temporal event-based model of disease progression](http://pawij.github.io/files/Wijeratne-Alexander2021_Chapter_LearningTransitionTimesInEvent.pdf)
 
 Disease progression modelling: application
 ===
