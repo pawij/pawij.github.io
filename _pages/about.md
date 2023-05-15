@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my academic website, where you can get an idea of the type of research I do in my job as a Lecturer in Computer Science and AI at [University of Sussex](https://www.sussex.ac.uk/).
+This is my academic website, where you can get an idea of the type of research I do in my job as a Lecturer in Computer Science and AI at the [University of Sussex](https://www.sussex.ac.uk/).
 
 Biography
 ===
