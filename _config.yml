@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Peter A. Wijeratne"
-description              : &description "MRC Research Fellow at University College London"
+description              : &description "Lecturer in Computer Science and AI at the University of Sussex"
 url                      : https://pawij.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pawij.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Peter A. Wijeratne (he/him)"
   avatar           : "profile.png"
-  bio              : "Senior Research Fellow"
-  location         : "University College London, UK"
+  bio              : "Lecturer in Computer Science and AI"
+  location         : "University of Sussex, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=peter+wijeratne"
   googlescholar    : "https://scholar.google.co.uk/citations?user=rXaFaUQAAAAJ&hl=en"
-  email            : "p.wijeratne AT ucl.ac.uk"
+  email            : "p.wijeratne AT sussex.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
