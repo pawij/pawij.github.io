@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Here you can find details of my current funding.
+Here you can find details of my funding.
 
 Principal investigator
 ===
@@ -14,6 +14,7 @@ Principal investigator
 Funder: Medical Research Council.
 Type: Fellowship.
 Amount: £273,137.
+Dates: July 2019 - August 2022
 <!--
 [Learning personalised trajectories in Huntington’s disease through computational models of disease progression]().
 Funder: CHDI Foundation.

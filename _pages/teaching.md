@@ -10,14 +10,13 @@ Here you can find details of my current teaching duties.
 PhD supervision
 ===
 
-[William Scotton](https://www.linkedin.com/in/william-scotton-b13a12/)
-
-[Ashkan Pakzad](https://www.linkedin.com/in/apakzad/)
+Sanduni Pinnawala (primary)
+Aisha Shuaibu (secondary)
 
 Masters supervision
 ===
 
-[Lucy Rothwell](https://www.linkedin.com/in/lucyrothwell/)
+Jamie Sage
 
 {% include base_path %}
 
