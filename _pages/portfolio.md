@@ -14,12 +14,12 @@ Principal investigator
 Funder: Medical Research Council.
 Type: Fellowship.
 Amount: £273,137.
-
+<!--
 [Learning personalised trajectories in Huntington’s disease through computational models of disease progression]().
 Funder: CHDI Foundation.
 Type: Research grant.
 Amount: £185,105.
-
+-->
 <!-- Co-investigator
 ===
 -->
