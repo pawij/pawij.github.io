@@ -13,11 +13,11 @@ This is my academic website, where you can get an idea of the type of research I
 Biography
 ===
 
-I have a (somewhat randomly acquired) background in physics, engineering and computer science which I use in a clinical research setting. My speciality is computational and statistical modelling of neurodegeneration and neurodevelopment.
+I have a (somewhat randomly acquired) background in physics, engineering and computer science which I use in a clinical research setting. My speciality is computational and statistical modelling of neurodevelopment and degeneration.
 
 Research
 ===
-Broadly speaking, I research two main topics: first, I develop new disease progression models; second, I use these models with medical data to learn new information.
+Broadly speaking, I research two main topics: first, I develop new latent variable models of progression trajectories; second, I use these models with medical data of various types to learn new information.
 
 Location
 ===
