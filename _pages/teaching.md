@@ -14,6 +14,11 @@ Advanced Methods in Machine Learning (982G5, postgraduate)
 
 Applied Machine Learning (G6061, undergraduate)
 
+Current courses
+===
+
+Data Science and Artificial Intelligence (Level 7 Apprenticeship) MSc
+
 Previous modules
 ===
 
