@@ -30,6 +30,8 @@ PhD supervision
 Sanduni Pinnawala (primary)
 Aisha Shuaibu (secondary)
 Mina Idris (secondary)
+Paula Seidler (secondary)
+Luca Trautmann (secondary)
 
 Undergradute supervision
 ===
