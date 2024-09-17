@@ -15,12 +15,11 @@ Funder: Medical Research Council.
 Type: Fellowship.
 Amount: £273,137.
 Dates: July 2019 - August 2022
-<!--
-[Learning personalised trajectories in Huntington’s disease through computational models of disease progression]().
+
+[Learning personalised trajectories in Huntington’s disease through computational models of disease progression](https://chdifoundation.org/).
 Funder: CHDI Foundation.
 Type: Research grant.
 Amount: £185,105.
--->
 <!-- Co-investigator
 ===
 -->
