@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is my academic website, where you can get an idea of the type of research I do in my job as a Lecturer in Computer Science and AI at the [University of Sussex](https://www.sussex.ac.uk/).
+This is my academic website, where you can get an idea of the type of research I do in my job as a [Lecturer / Assistant Professor in Computer Science and AI](https://profiles.sussex.ac.uk/p596509-peter-wijeratne) at the [University of Sussex](https://www.sussex.ac.uk/).
 
 Biography
 ===
 
-I have a (somewhat randomly acquired) background in physics, engineering and computer science which I use in a clinical research setting. My speciality is computational and statistical modelling of neurodevelopment and degeneration.
+I have a (somewhat randomly acquired) background in physics, engineering and computer science which I use in a clinical research setting. My speciality is machine learning and statistical modelling of neurodevelopment and degeneration.
 
 Research
 ===
