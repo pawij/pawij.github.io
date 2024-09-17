@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Here you can find details of my current teaching duties.
+Here you can find details of my current teaching, convening and supervision duties.
 
 Current modules
 ===
