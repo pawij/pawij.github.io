@@ -3,9 +3,6 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Blog"
-    url: /year-archive/
-
   - title: "Publications"
     url: /publications/
 

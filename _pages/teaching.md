@@ -7,16 +7,30 @@ author_profile: true
 
 Here you can find details of my current teaching duties.
 
+Current courses
+===
+
+Advanced Methods in Machine Learning (982G5, postgraduate)
+
+Applied Machine Learning (G6061, undergraduate)
+
+Previous courses
+===
+
+Computer Vision (G6032, undergraduate)
+
 PhD supervision
 ===
 
 Sanduni Pinnawala (primary)
 Aisha Shuaibu (secondary)
+Mina Idris (secondary)
 
-Masters supervision
+Undergradute supervision
 ===
 
-Jamie Sage
+Amy Upson (primary)
+Selin Hadjilar (primary)
 
 {% include base_path %}
 
