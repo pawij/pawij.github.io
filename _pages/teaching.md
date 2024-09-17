@@ -7,14 +7,14 @@ author_profile: true
 
 Here you can find details of my current teaching duties.
 
-Current courses
+Current modules
 ===
 
 Advanced Methods in Machine Learning (982G5, postgraduate)
 
 Applied Machine Learning (G6061, undergraduate)
 
-Previous courses
+Previous modules
 ===
 
 Computer Vision (G6032, undergraduate)
