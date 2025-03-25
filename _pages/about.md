@@ -23,7 +23,7 @@ Broadly speaking, I research two main topics: first, I develop new probabilistic
 
 Here's a visualisation of one of my models being used to reveal pixel-level changes in the brain from scans of people with Alzheimer's disease.
 
-![](https://github.com/pawij/vebm/blob/main/adni_vebm.gif)
+![](https://github.com/pawij/vebm/raw/main/adni_vebm.gif)
 
 Location
 ===
