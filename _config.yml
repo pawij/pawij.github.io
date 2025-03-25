@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Peter A. Wijeratne"
-description              : &description "Lecturer in Computer Science and AI at the University of Sussex"
+description              : &description "Assistant Professor in Computer Science and AI at the University of Sussex"
 url                      : https://pawij.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pawij.github.io"
@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+bluesky:
   username               : &twitter
 facebook:
   username               :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@WijDr"
+  bluesky          : "https://bsky.app/profile/wijdr.bsky.social"
   vine             :
   weibo            :
   xing             :
