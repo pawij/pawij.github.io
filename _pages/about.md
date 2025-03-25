@@ -21,7 +21,7 @@ Research
 ===
 Broadly speaking, I research two main topics: first, I develop new probabilistic machine learning models; second, I use these models with medical data of various types to learn new information about neurodevelopment and degeneration.
 
-Here's a visualisation of one of my models being used to reveal pixel-level changes in the brain from scans of people with Alzheimer's disease.
+Here's a visualisation of [one of my models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/73c362193e3e23188b2a74de7824cc4c-Abstract-Conference.html) being used to reveal pixel-level changes in the brain from scans of people with Alzheimer's disease.
 
 ![](https://github.com/pawij/vebm/raw/main/adni_vebm.gif)
 
