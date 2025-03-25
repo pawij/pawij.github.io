@@ -21,6 +21,10 @@ Research
 ===
 Broadly speaking, I research two main topics: first, I develop new probabilistic machine learning models; second, I use these models with medical data of various types to learn new information about neurodevelopment and degeneration.
 
+Here's a visualisation of one of my models being used to reveal pixel-level changes in the brain from scans of people with Alzheimer's disease.
+
+![](https://github.com/pawij/vebm/blob/main/adni_vebm.gif)
+
 Location
 ===
 I work in the [AI Research Group](https://www.sussex.ac.uk/research/centres/ai-research-group/) in the [Department of Informatics](https://www.sussex.ac.uk/informatics/) at the University of Sussex.
