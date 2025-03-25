@@ -7,6 +7,10 @@ author_profile: true
 
 Here you can find slides for talks and posters I've given.
 
+[A probabilistic perspective on modelling disease progression (with some optimal transport)](http://pawij.github.io/files/paw_sussexmaths_200325_widescreen_final.pdf) 20th March, 2025. Sussex Maths, in-person.
+
+[Learning timelines of dementia progression using machine learning and multi-modal data](http://pawij.github.io/files/paw_bsms_150324_widescreen_final.pdf) 15th March 2024. Brighton and Sussex Medical School Dementia Research Symposium, in-person. Also given to Alzheimer's Research UK South Coast Network Conference, 13th September 2024.
+
 [Learning transition times in event sequences: the Temporal Event-Based Model of disease progression](http://pawij.github.io/files/paw_ipmi_2021_poster.pdf) 29th June, 2021. Information Processing in Medical Imaging (IPMI), online.
 
 [Data-driven models of disease progression.](http://pawij.github.io/files/paw_jhbm2021_lecture.mp4) 5th March, 2021. 23rd Congress of Japan Human Brain Mapping, online.
