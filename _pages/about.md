@@ -13,7 +13,7 @@ This is my academic website, where you can get an idea of the type of research I
 Biography
 ===
 
-I have a background in physics, engineering and computer science which I use in a medical research setting. My speciality is machine learning and statistical modelling of neurodevelopment and degeneration.
+I have a background in physics, engineering and computer science which I use in a medical research setting. My speciality is probabilistic machine learning modelling of neurodevelopment and neurodegeneration.
 
 I'm strongly committed to fairness and equity in science, technology, engineering and mathematics (STEM). I've conducted outreach activities in schools and started a first-of-its-kind academic mentoring programme, [A-COMPS](https://www.ucl.ac.uk/computer-science/collaborate/schools-outreach/comps-mentoring-programme) ("Apply Competitively to STEM"), which pairs academics with school students from low-income and under-represented backgrounds to support their applications to university.
 
