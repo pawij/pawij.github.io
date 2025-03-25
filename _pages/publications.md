@@ -7,7 +7,7 @@ author_profile: true
 
 Here you can find selected publications grouped by topic and pre-prints of things I'm currently working on.
 
-Methods
+Progression modelling: Methods
 ===
 
 [Unscrambling disease progression at scale: fast inference of event permutations with optimal transport](https://proceedings.neurips.cc/paper_files/paper/2024/hash/73c362193e3e23188b2a74de7824cc4c-Abstract-Conference.html)
@@ -16,7 +16,7 @@ Methods
 
 [The temporal event-based model: Learning event timelines in progressive diseases](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00010/117183/The-temporal-event-based-model-Learning-event)
 
-Applications
+Progression modelling: Applications
 ===
 
 [Uncovering spatiotemporal patterns of atrophy in progressive supranuclear palsy using unsupervised machine learning](http://dx.doi.org/10.1093/braincomms/fcad048)
