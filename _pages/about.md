@@ -19,7 +19,7 @@ I'm strongly committed to fairness and equity in science, technology, engineerin
 
 Research
 ===
-Broadly speaking, I research two main topics: first, I develop new machine learning models of disease progression; second, I use these models with medical data of various types to learn new information about neurodevelopment and degeneration.
+Broadly speaking, I research two main topics: first, I develop new probabilistic machine learning models; second, I use these models with medical data of various types to learn new information about neurodevelopment and degeneration.
 
 Location
 ===
