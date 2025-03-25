@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Peter A. Wijeratne (he/him)"
   avatar           : "profile.png"
-  bio              : "Lecturer in Computer Science and AI"
+  bio              : "Assistant Professor in Computer Science and AI"
   location         : "University of Sussex, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=peter+wijeratne"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  bluesky          : "https://bsky.app/profile/wijdr.bsky.social"
+  twitter          : #"https://bsky.app/profile/wijdr.bsky.social"
   vine             :
   weibo            :
   xing             :
