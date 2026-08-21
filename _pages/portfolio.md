@@ -14,7 +14,7 @@ Principal investigator
 Funder: CHDI Foundation\
 Type: Research grant\
 Amount: £39,674\
-Dates: October 2026 - April 2027\
+Dates: October 2026 - April 2027
 
 [Learning personalised trajectories in Huntington’s disease through computational models of disease progression](https://chdifoundation.org/)\
 Funder: CHDI Foundation\
